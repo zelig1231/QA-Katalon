@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add P Expanse Voucher Petty</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2dd3e095-6b34-4b9f-bc07-5f5c024c3421</testCaseGuid>
+</TestCaseEntity>

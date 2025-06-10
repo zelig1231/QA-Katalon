@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Delete P Expanse Voucher Petty</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>705c29e1-9468-48fb-9cc7-596b72bc6da1</testCaseGuid>
+</TestCaseEntity>

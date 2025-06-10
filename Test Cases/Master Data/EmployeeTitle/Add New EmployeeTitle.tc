@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add New EmployeeTitle</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>669040fd-5c92-4ec5-88d3-c3577caa72c3</testCaseGuid>
+</TestCaseEntity>
